@@ -8,11 +8,7 @@ Founder of [HackrHQ](https://hackrhq.com/), matching individuals with the right 
 
 🌟 Let's connect and collaborate adrien@hackrhq.com
 
-## Some mildly interesting data
 
-<p align="center">
-  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=adrienckr">
-</p>
 
 
 
