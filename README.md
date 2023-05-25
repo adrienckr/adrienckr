@@ -14,7 +14,5 @@ Founder of [HackrHQ](https://hackrhq.com/), matching individuals with the right 
   <img width="99" height="20" src="https://komarev.com/ghpvc/?username=adrienckr">
 </p>
 
-<p align="center">
-  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=adrienckr&theme=nord&show_icons=true&hide_border=true&count_private=true">
-</p>
+
 
