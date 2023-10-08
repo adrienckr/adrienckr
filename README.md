@@ -1,7 +1,7 @@
 ## Welcome to my GitHub!
 
-Entrepreneur with Data Science and Engineering background, on a mission to revolutionize the way people learn about technology.
-
+French technical entrepreneur living in Palo Alto. Passionate about AI. Exploring the 4 most important paradigms of the 21st century: text -> (text,image,code,video)
+https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/
 
 
 
