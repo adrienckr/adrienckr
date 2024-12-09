@@ -1,5 +1,5 @@
-French AI entrepreneur living in San Francisco.
-CS & Maths @ Telecom Paris
+Engineer/Hacker/Entrepreneur
+CS @ Telecom Paris 
 
 
 
