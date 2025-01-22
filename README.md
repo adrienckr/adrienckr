@@ -1,7 +1,4 @@
-Engineer/Hacker/Entrepreneur
-CS @ Telecom Paris 
-
-
+Proud Israeli-American engineer and entrepreneur
 
 
 
