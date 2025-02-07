@@ -1,4 +1,4 @@
-Proud Israeli-American engineer and entrepreneur
+Proud American engineer and entrepreneur
 
 
 
