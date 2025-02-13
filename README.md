@@ -1,4 +1,1 @@
-Proud American engineer and entrepreneur
-
-
-
+Machine Learning Engineer and Entrepreneur. 
